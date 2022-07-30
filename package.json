@@ -1,5 +1,4 @@
 {
-  "private": true,
   "scripts": {
     "lint": "npx prettier --check tests/",
     "lint:fix": "npx prettier --write tests/",
